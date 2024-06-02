@@ -2,6 +2,7 @@
 
 This PowerShell script disables all remote access functionalities in Windows, including Remote Desktop, Remote Assistance, and WinRM (Remote Shell). It is intended to enhance security by preventing unauthorized remote access to the system.
 
+
 ## Features
 
 - Disables Remote Desktop
