@@ -21,6 +21,3 @@ This PowerShell script disables all remote access functionalities in Windows, in
 
 The script includes verification steps that output the status of Remote Desktop, Remote Desktop Services, Remote Assistance, and WinRM to confirm they have been disabled.
 
-## License
-
-This project is licensed under the MIT License.
